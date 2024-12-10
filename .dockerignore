@@ -1,5 +1,11 @@
-*
+node_modules
+coverage
+npm-debug.log
+*.pem
+.env
 .*
-!index.js
-!lib/*.js
-!package*.json
+docker-compose.yml
+Dockerfile
+*.md
+.gitignore
+.dockerignore
